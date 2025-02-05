@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cihan</h1>
+<h3 align="center">Im 22 y.o fullstack developer based in turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cihanv&label=Profile%20views&color=0e75b6&style=flat" alt="cihanv" /> </p>
+
 
 
 <p align="left">
