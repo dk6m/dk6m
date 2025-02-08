@@ -25,8 +25,6 @@ Novasy.introduce();
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
 - ![](https://img.shields.io/badge/Code-Python-black?style=flat-square&logo=python&logoColor=brightgreen)
 - ![](https://img.shields.io/badge/Code-PHP-black?style=flat-square&logo=php&logoColor=cyan)
-- ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
-- ![](https://img.shields.io/badge/Tools-MYSQL-black?style=flat-square&logo=mysql&logoColor=cyan)
 
 ## Discord 
 [![Discord Presence](https://lanyard.cnrad.dev/api/246383236744347648)](https://discord.com/users/246383236744347648)
