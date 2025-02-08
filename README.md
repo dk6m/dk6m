@@ -17,8 +17,8 @@ class Person {
   }
 }
 
-const Novasy = new Person("Cihan", 22, "Samsun", "Developer", "Male");
-Novasy.introduce();
+const Leak = new Person("leak", ???, "???", "Developer", "Male");
+Leak.introduce();
 ```
 
 ## 🔧 My skills 
