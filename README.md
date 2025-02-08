@@ -21,7 +21,7 @@ const Leak = new Person("leak", ???, "???", "Developer", "Male");
 Leak.introduce();
 ```
 
-## 🔧 My skills 
+## My skills 
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
 - ![](https://img.shields.io/badge/Code-Python-black?style=flat-square&logo=python&logoColor=brightgreen)
 - ![](https://img.shields.io/badge/Code-PHP-black?style=flat-square&logo=php&logoColor=cyan)
