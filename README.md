@@ -29,5 +29,5 @@ Novasy.introduce();
 - ![](https://img.shields.io/badge/Tools-MYSQL-black?style=flat-square&logo=mysql&logoColor=cyan)
 
 ## Discord 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/191906844199878656?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/246383236744347648)
+[![Discord Presence](https://lanyard.cnrad.dev/api/246383236744347648)](https://discord.com/users/246383236744347648)
 
