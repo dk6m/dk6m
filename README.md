@@ -17,7 +17,7 @@ class Person {
   }
 }
 
-const Leak = new Person("leak", ???, "???", "Developer", "Male");
+const Sup = new Person("Support", ???, "???", "Developer", "Male");
 Leak.introduce();
 ```
 
