@@ -27,5 +27,5 @@ Leak.introduce();
 - ![](https://img.shields.io/badge/Code-PHP-black?style=flat-square&logo=php&logoColor=cyan)
 
 ## Discord 
-[![Discord Presence](https://lanyard.cnrad.dev/api/246383236744347648)](https://discord.com/users/246383236744347648)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1081927319863693432)](https://discord.com/users/1081927319863693432)
 
